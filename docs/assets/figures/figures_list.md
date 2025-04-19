@@ -1,0 +1,18 @@
+# Figures List
+
+1. [Figure 1: Project Workflow Diagram](figure_1.md)
+2. [Figure 2: Dataset Description and Preprocessing Steps](figure_2.md)
+3. [Figure 3: Leukemia Types](figure_3.md)
+4. [Figure 4: Enhanced EfficientNetV2-S Architecture for Multi-Class Leukemia Classification](figure_4.md)
+5. [Figure 5: Traditional CNN Architecture for Multi-Class Leukemia Classification](figure_5.md)
+6. [Figure 6: Training and validation accuracy curves over 20 epochs for Enhanced EfficientNetV2-S](figure_6.md)
+7. [Figure 7: Training and validation loss curves over 20 epochs for Enhanced EfficientNetV2-S](figure_7.md)
+8. [Figure 8: Training and validation accuracy curves over 20 epochs for Traditional CNN](figure_8.md)
+9. [Figure 9: Training and validation loss curves over 20 epochs for Traditional CNN](figure_9.md)
+10. [Figure 10: Confusion matrix for Enhanced EfficientNetV2-S model](figure_10.md)
+11. [Figure 11: Confusion matrix for Traditional CNN model](figure_11.md)
+12. [Figure 12: Performance comparison between Enhanced EfficientNetV2-S and Traditional CNN](figure_12.md)
+13. [Figure 13: Comparative analysis of model performance metrics across all evaluated models](figure_13.md)
+14. [Figure 14: Radar chart comparing accuracy, precision, recall, and F1-score across models](figure_14.md)
+15. [Figure 15: Grad-CAM Visualizations for Enhanced EfficientNetV2-S](figure_15.md)
+16. [Figure 16: Grad-CAM Visualizations for Traditional CNN](figure_16.md)

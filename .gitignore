@@ -1,0 +1,112 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Model Weights and Checkpoints (except final models)
+*.h5
+*.pth
+*.pt
+*.pkl
+*.bin
+*.onnx
+*.tflite
+*.pb
+*.npy
+checkpoint/
+checkpoints/
+# Keeping only the final models
+!models/saved_models/efficientnetv2s_leukemia_model.h5
+!models/saved_models/cnn_leukemia_model.h5
+
+# Large Data Files
+# Include ALL_dataset
+!data/ALL_dataset/
+!data/ALL_dataset/**/*
+
+# Logs
+logs/
+*.log
+tensorboard_logs/
+wandb/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Temporary files
+tmp/
+temp/
+
+# Generated visualizations (except important ones)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+# Keeping documentation images
+!docs/assets/figures/*.png
+!docs/assets/figures/*.jpg
+!visualization/gradcam_figures/*.png
+!visualization/model_diagrams/*.png
+# Include all files in docs/report directory
+!docs/report/**/*.pdf
+!docs/report/**/*.png
+!docs/report/**/*.jpg
+!docs/report/**/*.jpeg
+!docs/report/**/*.docx
+!docs/report/**/*.doc
+!docs/report/**/*
+
+# Results and outputs (except important ones)
+outputs/
+results/
+# Keeping model results
+!models/*/results/*.csv
+!models/*/results/*.json
+
+# System Files
+.directory
+desktop.ini
+
+# Ignore files with too long filenames
+docs/report/A1F2_10*
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store 

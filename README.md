@@ -142,9 +142,6 @@ Detailed performance metrics are available in `docs/assets/tables/`:
 - Precision, recall, and F1-scores
 - Comparative analysis with existing approaches
 
-## Contributing
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more information.
-
 ## Documentation
 The `docs` directory contains comprehensive documentation:
 - `docs/assets/figures`: Visual representations of model architectures and results
